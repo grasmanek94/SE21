@@ -1,0 +1,8 @@
+﻿Cat: 0, 09-02-2015, Kitty, not reserved, €37.00, Scratches your face off
+Cat: 1, 09-06-2012, CatName, not reserved, €60.00, none
+Cat: 2, 11-09-2012, Pussy, not reserved, €49.00, Is too cute
+Dog: 3, 11-08-2012, Doggy, not reserved, €200.00, 01-04-2015
+Dog: 4, MissingBdayDog, reserved, €200.00, 01-04-2015
+Cat: 5, 11-09-2012, Name, not reserved, €49.00, This badhabbit is stupid, because it uses a comma
+Cow: 12, 31-01-1993, Moooooo, reserved, €50000.00, This is not a cat or dog at all!
+Cat: 13, 11-26-1999, Moooooo, reserved, €50000.00, Someone used american notation for this cat his birthday

@@ -1,0 +1,6 @@
+Cat: 0, 27-01-1989, KittyA, reserved, €46.00, Stuffed Animal
+Dog: 1, 04-04-2013, Ramzes, not reserved, €200.00, 03-04-2015
+Dog: 2, 13-06-2007, Snoepie, not reserved, €200.00, 01-04-2015
+Cat: 3, 07-01-2015, Magda, not reserved, €44.00, Very young kitty
+Cat: 4, 20-08-2014, Kananananana, not reserved, €60.00, none
+Dog: 5, 26-10-2014, Woof, reserved, €200.00, 04-04-2015
